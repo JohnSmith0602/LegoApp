@@ -1,0 +1,12 @@
+.nav-list {padding-bottom: 20px}
+.nav-list li {text-align: right;}
+.nav-list .nav-header {font-size: 18px;}
+.sysname {font-size: 32px; color: #08c; padding: 20px; text-align: center;}
+body {background-color: #f5f5f5;}
+.container-fluid {padding: 0;}
+.span2 {background-color: #E0E0E3; box-shadow: 2px 2px 4px #999;}
+.nav-list > li > a, .nav-list .nav-header {text-shadow: 0 2px 0 #FFF;}
+.module {border: 1px solid #9BA0AF; border-radius: 5px; background-color: #FFF; margin: 20px 20px 0;}
+.module .table {margin: 0;}
+.module header {box-shadow: 0 2px 6px #AAA; background-image: -webkit-linear-gradient(#FFF, #DDD); border-top-left-radius: 5px; border-top-right-radius: 5px;}
+.module header h3 {margin: 0 20px; font-size: 16px;}
